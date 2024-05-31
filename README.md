@@ -12,7 +12,7 @@ description:-
 Project Insights- Week 52 (24st Dec)
 WoW change: 
 • Revenue decreased by 12.8%, 
-• Total Transaction Amount & Count increased by 13.4% & 11%
+• Total Transaction Amount & Count decreased by 13.4% & 11%
 Overview :
 • Overall revenue is 55M
 • Total interest is 8M
