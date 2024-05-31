@@ -9,7 +9,7 @@ description:-
 •	created some measure, columns using DAX 
 •	analysis done to monitor key performance metrics and trends.
 •	listed out actionable insights to share with stakeholders based on dashboard findings to support decision-making processes.
-Project Insights- Week 52 (24st Dec)
+Project Insights- Week 52 (24th Dec)
 WoW change: 
 • Revenue decreased by 12.8%, 
 • Total Transaction Amount & Count decreased by 13.4% & 11%
